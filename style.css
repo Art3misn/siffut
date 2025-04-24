@@ -1,0 +1,54 @@
+body {
+    background-color: #f2fdf2;
+    font-family: 'Comic Sans MS', cursive;
+    text-align: center;
+    color: #3b3b3b;
+  }
+  
+  .container {
+    margin-top: 50px;
+    padding: 20px;
+  }
+  
+  .intro {
+    font-size: 1.2em;
+    color: #5a9c67;
+  }
+  
+  .quiz-box, .confession {
+    background: #ffffff;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 20px;
+    display: inline-block;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin-top: 15px;
+    background-color: #a5d6a7;
+    border: none;
+    border-radius: 10px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #81c784;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  .matcha-emoji {
+    width: 80px;
+    margin-bottom: 10px;
+  }
+  
+  .yes-btn {
+    margin: 5px;
+  }
+  
